@@ -2,4 +2,6 @@
 
 # Try starting out with puts'ing a string.
 
-Dear
+puts "Dear Heromine,"
+
+puts "You have graciously been invited to the Best Halloween Party Ever. "
